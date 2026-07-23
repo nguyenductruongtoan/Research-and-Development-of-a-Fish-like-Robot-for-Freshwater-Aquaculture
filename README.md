@@ -1,1 +1,1 @@
-# Research-and-Development-of-a-Fish-like-Robot-for-Freshwater-Aquaculture
+Dự án tập trung vào nghiên cứu và phát triển Robot dạng cá mô phỏng chuyển động bơi tự nhiên, hướng đến ứng dụng hỗ trợ quan sát, kiểm tra và thu thập dữ liệu trong môi trường nuôi trồng thủy sản nước ngọt. Robot sử dụng cơ cấu đuôi hai khớp kết hợp vây đuôi để tạo lực đẩy, tích hợp hệ thống điều khiển, cảm biến vật cản và cơ cấu điều chỉnh độ nổi.
